@@ -11,14 +11,14 @@ I'm remaking the page in jQuery and Bootstrap, with a plan to support all major 
 
 ## Candidates
 
-* Tim Cruz
+* Ted Cruz
 * Rand Paul
 * Hillary Clinton
 
 Candidates should be added after they officially declare their intention to run
 for president in 2016. The name of the candidate should be a common spelling
 used by CNN, the New York Times, and/or the Economist, and not unnecessarily
-formal (for example: Timothy Cruz, Hillary Rodham Clinton).
+formal (for example: Theodore Cruz, Hillary Rodham Clinton).
 
 ## Questions
 
