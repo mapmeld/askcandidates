@@ -4,19 +4,20 @@
     <meta charset="utf-8"/>
     <title>AskCandidates</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/candidate.css"/>
   </head>
   <body>
     <div class="container">
       <div class="row">
-        <div class="col-md-6" style="text-align:center;">
+        <div class="span6" style="text-align:center;">
           <div id="playerdiv">Sorry, you need Flash player 8+ and JavaScript enabled to view this video.</div>
         </div>
       </div>
       <div class="row">
-        <div class="col-md-6 well">
+        <div class="span6">
           <form class="form-horizontal">
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="...?"/>
+              <input id="box" type="text" class="form-control" placeholder="...?"/>
             </div>
           </form>
         </div>
@@ -25,7 +26,7 @@
 
     <script type="text/javascript" src="http://swfobject.googlecode.com/svn/tags/rc3/swfobject/src/swfobject.js"></script>
     <script type="text/javascript" src="js/jquery.js"></script>
-    <script type="text/javascript" src="js/bootstrap-typeahead.js"></script>
+    <script type="text/javascript" src="js/typeahead.jquery.min.js"></script>
 
     <script type="text/javascript" src="js/askcandidates.js"></script>
   </body>
