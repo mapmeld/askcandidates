@@ -15,6 +15,7 @@ I'm remaking the page in jQuery and Bootstrap, with a plan to support all major 
 * Rand Paul
 * Hillary Clinton
 * Marco Rubio
+* Bernie Sanders
 
 Candidates should be added after they officially declare their intention to run
 for president in 2016. The name of the candidate should be a common spelling
